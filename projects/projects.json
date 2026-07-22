@@ -1,0 +1,62 @@
+[
+  {
+    "name": "T-shirt Design",
+    "desc": "Wearable AI art: bold textures, precision design, print-ready impact.",
+    "image": "kickouts",
+    "category": "tshirt",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ccAn1AJL4CzRuHw8Z3O-EItA72w5Jhgb/view?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1qgLceSLY0x7G129REcx3elsSZlFLALRM?usp=drive_link"
+    }
+  },
+  {
+    "name": "Sport Poster",
+    "desc": "Dynamic sports poster: bold, modern, movement-focused, competitive energy, hybrid design.",
+    "image": "sportposter",
+    "category": "sport",
+    "links": {
+      "view": "https://drive.google.com/file/d/1xA8R3h8DkJVvmEnbq40HeJ2T3pPb0PaL/view?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1S6ctF2pekZiXF2PFmx4_JlRbJAiLfm5K?usp=drive_link"
+    }
+  },
+  {
+    "name": "Social Media Poster",
+    "desc": "Strategic social media content driving brand loyalty and maximum engagement.",
+    "image": "socialmedia",
+    "category": "social",
+    "links": {
+      "view": "https://drive.google.com/file/d/14YPuNi22wvQtPNkouZpUpxxX4ThP1q4R/view?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1tLYISK1ORXfkDgPtvlAeB9dPOR0TvguK?usp=drive_link"
+    }
+  },
+  {
+    "name": "VCC ENGINEERING AND CONSTRUCTION SERVICES",
+    "desc": "Perfect for describing how your code reduces complexity and automates manual tasks.",
+    "image": "vccproj",
+    "category": "coding",
+    "links": {
+      "view": "https://drive.google.com/file/d/1gVLPBvUsh5kCGYrfbMInH2G6GmFSNbJm/view?usp=sharing",
+      "code": "https://github.com/neilramsss10/NERamilo-VCC-Project-Management-System-main"
+    }
+  },
+  {
+    "name": "Web Design-Portfolio",
+    "category": "coding",
+    "desc": "Review my career history, core skills, and accomplishments for clarity.",
+    "image": "Home",
+    "links": {
+      "view": "https://drive.google.com/file/d/1kbkz817FVcf7JZ9KJJg2pTCX5uPUNbcd/view?usp=sharing",
+      "code": "https://github.com/neilramsss10/Neil-Ramilo-Portfolio"
+    }
+  },
+  {
+    "name": "Graphic Design-Portfolio",
+    "category": "social",
+    "desc": "Creative problem-solving, visual communication, software proficiency.",
+    "image": "aboutme",
+    "links": {
+      "view": "https://raw.githubusercontent.com/neilramsss10/Neil-Ramilo-Portfolio/refs/heads/main/aboutme.png",
+      "code": "https://drive.google.com/file/d/1HdOJzwSieubEOYl7KL_TsOZFrW-5CKRL/view?usp=sharing"
+    }
+  }
+]

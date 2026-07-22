@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Android",
+    "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "C++",
+    "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "Heroku",
+    "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+  },
+  {
+    "name": "Netlify",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "Technical Support",
+    "icon": "https://img.icons8.com/color/48/000000/technical-support.png"
+  },
+  {
+    "name": "Technician",
+    "icon": "https://img.icons8.com/color/48/000000/maintenance.png"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/color/48/000000/canva.png"
+  },
+  {
+    "name": "Gemini",
+    "icon": "https://img.icons8.com/color/48/000000/google-logo.png"
+  },
+  {
+    "name": "Claude AI",
+    "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+  },
+  {
+    "name": "Networking",
+    "icon": "https://img.icons8.com/color/48/000000/networking-manager.png"
+  },
+  {
+    "name": "Jira",
+    "icon": "https://img.icons8.com/color/48/000000/jira.png"
+  },
+  {
+    "name": "SharePoint Server",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-sharepoint.png"
+  }
+]
